@@ -18,5 +18,5 @@ Flutter app to calculate Body Mass Index with two screens.
 - View result with category and message
 - Recalculate option
 
-## Project Structure
+
 
